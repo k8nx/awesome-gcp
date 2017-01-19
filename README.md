@@ -50,8 +50,14 @@ Slides:
 * [Scio - A Scala API for Google Cloud Dataflow & Apache Beam](http://www.slideshare.net/sinisalyh/scio-a-scala-api-for-google-cloud-dataflow-apache-beam?qid=1c6dde13-600d-470b-9df1-9059f6aba369&v=&b=&from_search=6)
 * [From stream to recommendation using apache beam with cloud pubsub and cloud dataflow](http://www.slideshare.net/sinisalyh/from-stream-to-recommendation-using-apache-beam-with-cloud-pubsub-and-cloud-dataflow)
 
+### Pub/Sub
 
+* [Google Pub/Sub](https://cloud.google.com/pubsub/docs/) - Official documentation
+	* [Pricing model](https://cloud.google.com/pubsub/pricing-new), [Quotas](https://cloud.google.com/pubsub/quotas)
 
+Repos:
+
+* [Kafka Connector](https://github.com/GoogleCloudPlatform/pubsub/tree/master/kafka-connector) - Publish messages from Kafka to Google Cloud Pub/Sub and vice versa
 
 ## Machine Learning
 
