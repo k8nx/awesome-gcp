@@ -63,6 +63,10 @@ Repos:
 
 ## Management Tools
 
+### StackDriver
+
+* [StackDriver Zipkin](https://github.com/GoogleCloudPlatform/stackdriver-zipkin/) - Adapters for using Zipkin instrumentation with Stackdriver Trace
+
 ## Developer Tools
 
 ## Identity & Security
