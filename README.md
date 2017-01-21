@@ -65,6 +65,7 @@ Repos:
 
 ### StackDriver
 
+* [fluent-plugin-google-cloud](https://github.com/GoogleCloudPlatform/fluent-plugin-google-cloud) - Google Cloud Logging plugin for fluentd
 * [StackDriver Zipkin](https://github.com/GoogleCloudPlatform/stackdriver-zipkin/) - Adapters for using Zipkin instrumentation with Stackdriver Trace
 
 ## Developer Tools
