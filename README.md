@@ -9,6 +9,10 @@ A curated list of awesome GCP tutorials, books, blog posts, slides and other res
 * [SDK](#sdk)
 * [Tutorials](#tutorials)
 
+# Conferences
+
+* [Google Cloud Next 2017](gcp_next17.md)
+
 # Products
 
 * [Compute](#compute)
